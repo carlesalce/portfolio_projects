@@ -1,4 +1,4 @@
-# portfolio_projects
+# Portfolio
 My data science portfolio projects
 
 About Me
