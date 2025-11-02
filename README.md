@@ -1,7 +1,7 @@
 # Portfolio
 My data science portfolio projects
 
-##About Me
+## About Me
 
 Aspiring data analyst and bioinformatician with expertise in Python, statistical analysis, machine learning, and biological data interpretation. My portfolio demonstrates the application of data science techniques to solve real-world biological problems.
 
