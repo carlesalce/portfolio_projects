@@ -1,9 +1,11 @@
 # Portfolio
 My data science portfolio projects
 
-About Me
+##About Me
 
 Aspiring data analyst and bioinformatician with expertise in Python, statistical analysis, machine learning, and biological data interpretation. My portfolio demonstrates the application of data science techniques to solve real-world biological problems.
+
+## Featured Projects
 
 Iris Flower Classification](./iris-classification/)
 **Bioinformatic Analysis & Machine Learning**
@@ -14,6 +16,7 @@ A comprehensive analysis of the classic Iris dataset, combining exploratory data
 - 97% classification accuracy using multiple algorithms
 - Statistical validation of morphological differences (p < 0.001)
 - Identification of petal morphology as primary species discriminator
+- Multiple algorithms compared and evaluated (SVM, Logistic Regression, KNN, etc.)
 
 ##  Technical Skills
 
