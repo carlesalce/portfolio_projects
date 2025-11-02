@@ -7,7 +7,7 @@ Aspiring data analyst and bioinformatician with expertise in Python, statistical
 
 ## Featured Projects
 
-Iris Flower Classification](./iris-classification/)
+### Iris Flower Classification](./iris-classification/)
 **Bioinformatic Analysis & Machine Learning**
 
 A comprehensive analysis of the classic Iris dataset, combining exploratory data analysis with machine learning to classify flower species based on morphological measurements.
@@ -30,7 +30,7 @@ A comprehensive analysis of the classic Iris dataset, combining exploratory data
 - **Biological Data:** Genomics, metagenomics, microbiome analysis, morphological Data, taxonomic classification
 
 
-##Project Highlights
+## Project Highlights
 
 ### **Iris Classification - Key Achievements**
 - **Statistical Rigor:** Conducted ANOVA tests proving significant species differences
