@@ -57,6 +57,29 @@ iris-classification/
 - Correlation heatmap shows petal measurements are highly correlated
 - Pair plot demonstrates multivariate separation patterns
 
+### Machine Learning Results
+- **Best Model**: Support Vector Machine
+- **Test Accuracy**: 97% (29/30 test samples correctly classified)
+- **Cross-validation Score**: 97.5% ± 2.0% (consistent performance)
+- **Top Performing Models**:
+  1. Support Vector Machine : 97% accuracy
+  2. Gaussian Naive Bayes 97% accuracy
+  3. Logistic Regression 93.3% accuracy
+  4. K-Nearest Neighbors 93.3% accuracy
+
+### Feature Importance
+**Random Forest Feature Importance:**
+1. PetalWidthCm: 0.44 
+2. PetalLengthCm: 0.43 
+3. SepalLengthCm: 0.11 
+4. SepalWidthCm: 0.02 
+
+### 📊 Species-Specific Performance
+- **Iris-setosa**: 100% accuracy (perfect classification)
+- **Iris-versicolor**: 90% accuracy (1 misclassification as virginica)
+- **Iris-virginica**: 100% accuracy (perfect classification)
+
+
 ##  Technologies Used
 - **Python 3.8+**
 - **Data Analysis**: Pandas, NumPy
