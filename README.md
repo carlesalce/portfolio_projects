@@ -7,6 +7,33 @@ Aspiring data analyst and bioinformatician with expertise in Python, statistical
 
 ## Featured Projects
 
+## Featured Project – Master’s Thesis
+
+### Comparative Metagenomic Analysis of T2D Microbiomes (China vs USA)
+
+End-to-end comparative analysis of gut microbiota composition in Type 2 Diabetes (T2D)
+patients from China and the United States using shotgun metagenomic data.
+
+**Key features**
+- Complete metagenomic pipeline (SRA → QC → host removal → taxonomic profiling)
+- MetaPhlAn-based taxonomic profiling (Galaxy)
+- Alpha and beta diversity analysis
+- Differential abundance analysis using ANCOM-BC
+- Reproducible and well-documented workflow
+
+### **Bioinformatics & Domain Expertise**
+- **Statistical Analysis:** Hypothesis Testing, ANCOM-BC, data visualization
+- **Biological Data:** Genomics, metagenomics, microbiome analysis.
+
+
+🔗 **Full repository:**  
+https://github.com/carlesalce/T2D_metagenomics
+
+📄 **Master’s thesis:**  
+Available in the repository under `docs/TFM_Comparative_Metagenome_T2D.pdf`
+
+---
+
 ### Iris Flower Classification](./iris-classification/)
 **Bioinformatic Analysis & Machine Learning**
 
