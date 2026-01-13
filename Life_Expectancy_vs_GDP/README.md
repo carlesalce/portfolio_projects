@@ -21,7 +21,9 @@ The analysis uses `data/all_data.csv` containing:
 
 ## Project Structure
 Life_Expectancy_vs_GDP/
+
 ├── data/
+
 │ └── all_data.csv # Source data
 ├── notebooks/
 │ └── life_expectancy_gdp.ipynb # Main analysis notebook
