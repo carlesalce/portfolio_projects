@@ -39,27 +39,74 @@ Available in the repository under `docs/TFM_Comparative_Metagenome_T2D.pdf`
 
 A comprehensive analysis of the classic Iris dataset, combining exploratory data analysis with machine learning to classify flower species based on morphological measurements.
 
+**Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Statistical Testing
+
 **Key Highlights:**
 - 97% classification accuracy using multiple algorithms
 - Statistical validation of morphological differences (p < 0.001)
 - Identification of petal morphology as primary species discriminator
 - Multiple algorithms compared and evaluated (SVM, Logistic Regression, KNN, etc.)
 
-##  Technical Skills
+
+### [Life Expectancy and GDP Analysis](./Life_Expectancy_vs_GDP/)
+**Socioeconomic Data Analysis**
+
+Analysis of the relationship between economic indicators (GDP) and health outcomes (Life Expectancy) across six countries using data from WHO and World Bank.
+
+**Key Analysis:**
+- Correlation analysis between GDP and Life Expectancy
+- Time series visualization of economic and health trends
+- Country-specific pattern analysis (Chile, China, Germany, Mexico, USA, Zimbabwe)
+- Growth rate calculations and statistical insights
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn, Statistical Analysis
+
+**Highlights:**
+- Complete data cleaning and preparation pipeline
+- Multiple visualization types (scatter plots, time series, facet grids)
+- Country-by-country comparison and ranking
+- Clear insights into wealth-health relationships
+
+
+## Technical Skills
 
 ### **Programming & Data Analysis**
-- **Languages:** Python, SQL, R
-- **Data Manipulation:** Pandas, NumPy, Data Cleaning
-- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Languages:** Python, SQL, R, Bash
+- **Data Manipulation:** Pandas, NumPy, Data Cleaning, Feature Engineering
+- **Machine Learning:** Scikit-learn, Model Evaluation, Hyperparameter Tuning
+- **Visualization:** Matplotlib, Seaborn, Plotly, ggplot2
 
 ### **Bioinformatics & Domain Expertise**
-- **Statistical Analysis:** Hypothesis Testing, ANOVA, Correlation
-- **Biological Data:** Genomics, metagenomics, microbiome analysis, morphological Data, taxonomic classification
+- **Statistical Analysis:** Hypothesis Testing, ANOVA, Correlation Analysis, ANCOM-BC
+- **Genomics/Metagenomics:** Galaxy Platform, MetaPhlAn, Taxonomic Profiling
+- **Biological Data:** Microbiome Analysis, Morphological Data, Taxonomic Classification
+- **Research Methods:** Reproducible Analysis, Scientific Documentation
 
+### **Tools & Platforms**
+- **Version Control:** Git, GitHub
+- **Development:** Jupyter Notebooks, VS Code, RStudio
+- **Bioinformatics:** Galaxy, BioPython, Bioconductor
+- **Methodology:** CRISP-DM, Exploratory Data Analysis
 
 ## Project Highlights
+
+### **T2D Metagenomics Project - Key Achievements**
+- **End-to-End Pipeline:** Developed complete metagenomic analysis workflow
+- **Statistical Rigor:** Applied ANCOM-BC for differential abundance analysis
+- **Cross-Cultural Study:** Comparative analysis of Chinese and American microbiomes
+- **Thesis-Grade Documentation:** Comprehensive report with scientific methodology
+
 
 ### **Iris Classification - Key Achievements**
 - **Statistical Rigor:** Conducted ANOVA tests proving significant species differences
 - **Machine Learning Excellence:** Achieved 97% accuracy with multiple algorithms
 - **Biological Insights:** Connected data patterns to taxonomic knowledge
+
+
+### **GDP vs Life Expectancy - Key Achievements**
+- **Correlation Analysis:** Quantified relationship between economic and health indicators
+- **Time Series Analysis:** Tracked changes across 15-year period (2000-2015)
+- **Comparative Study:** Analyzed six countries with diverse economic backgrounds
+- **Data Visualization:** Created professional plots for clear communication
+
+
