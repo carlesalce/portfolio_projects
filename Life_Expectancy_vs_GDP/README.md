@@ -25,12 +25,19 @@ Life_Expectancy_vs_GDP/
 ├── data/
 
 │ └── all_data.csv # Source data
+
 ├── notebooks/
+
 │ └── life_expectancy_gdp.ipynb # Main analysis notebook
+
 ├── src/ # Source code (optional)
+
 ├── reports/ # Generated reports (optional)
+
 ├── requirements.txt # Python dependencies
+
 ├── .gitignore # Git ignore rules
+
 └── README.md # This file
 
 
